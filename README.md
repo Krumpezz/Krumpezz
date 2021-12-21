@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Krumpez and I'm a Java developer. I'm from India, living in Delhi. You can find me on [Twitter]https://twitter.com/RealVortexinnit) and [Youtube](https://www.youtube.com/channel/UCgdEJ2GoIwVNhf4yxQFMxmA)
+My name is Krumpez and I'm a Java developer. I'm from India, living in Delhi. You can find me on [Twitter](https://twitter.com/RealVortexinnit) and [Youtube](https://www.youtube.com/channel/UCgdEJ2GoIwVNhf4yxQFMxmA)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -44,7 +44,7 @@ My name is Krumpez and I'm a Java developer. I'm from India, living in Delhi. Yo
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/HarshuboiPlayz
-[2]: https://github.com/HarshuboiPlayz
+[1]: https://twitter.com/RealVortexinnit
+[2]: https://github.com/vortexinnit
 
 
