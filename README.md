@@ -2,9 +2,9 @@
 
 My name is Krumpez and I'm a Java Developer. I'm from India, living in Delhi. You can find me on [![Twitter][1.2]][1].
 
-## &#x270d; Blog & Writing
+## &#x270d; How to know about me?
 
-You can find more things about me at [Website]() as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+You can find more things about me at [Website](https://vortexinnit.github.io/About/) as well as on [Portfolio](https://docs.google.com/document/d/1WzkQv0PwDz3EL_Kw1BbdlezWUTTPCChU1_SF5FjJTIg/edit?usp=sharing)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
