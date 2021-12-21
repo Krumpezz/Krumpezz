@@ -7,9 +7,6 @@ My name is Krumpez and I'm a Java Developer. I'm from India, living in Delhi.
 You can find more things about me at [Website](https://vortexinnit.github.io/About/) as well as on [Portfolio](https://docs.google.com/document/d/1WzkQv0PwDz3EL_Kw1BbdlezWUTTPCChU1_SF5FjJTIg/edit?usp=sharing)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
