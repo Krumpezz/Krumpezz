@@ -19,11 +19,11 @@ My name is Krumpez and I'm a Java developer. I'm from India, living in Delhi. Yo
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/HarshuboiPlayz/HarshuboiPlayz">
+<a href="https://github.com/Vortexinnit/Vortexinnit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortexinnit&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/HarshuboiPlayz/HarshuboiPlayz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshuboiPlayz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Vortexinnit/Vortexinnit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vortexinnit&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 
