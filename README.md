@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Krumpez and I'm a Java Developer. I'm from India, living in Delhi. You can find me on [![Twitter][1.2]][1].
+My name is Krumpez and I'm a Java Developer. I'm from India, living in Delhi.
 
 ## &#x270d; How to know about me?
 
