@@ -35,8 +35,8 @@ My name is Krumpez and I'm a Java developer. I'm from India, living in Delhi. Yo
 <a href="https://github.com/Krumpezz/ExtinctionClient">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krumpezz&repo=ExtinctionClient&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
-<a href="https://github.com/Krumpezz/Tracoxine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krumpezz&repo=Tracoxine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Krumpezz/Trobos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krumpezz&repo=Trobos&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
 <a href="https://github.com/Krumpezz/Acrophobia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krumpezz&repo=Acrophobia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
