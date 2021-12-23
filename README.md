@@ -1,42 +1,42 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Bharath <img height="40" src="https://emoji.gg/assets/emoji/7089-jeb.gif"></h1>
+<h3 align="center">I make stuff in HTML and I can't stop playing Minecraft</h3>
 
-My name is Krumpez and I'm a Java developer. I'm from India, living in Delhi. You can find me on [Twitter](https://twitter.com/RealVortexinnit) and [Youtube](https://www.youtube.com/channel/UCgdEJ2GoIwVNhf4yxQFMxmA)
+- 🔭 I like to make YouTube videos!
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+- 🌱 I'm most probably playing **BedWars** most of the time
 
-## &#x1f4c8; GitHub Stats
+- 👯 I'm a Microsoft enthusiast and you can find me on the  <a href="https://msft.chat">Microsoft Community Discord</a>
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krumpezz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krumpezz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+- 📫 How to reach me: **Tech#9787 on Discord**
 
-## &#x1f4c8; Github Repositories
+- ⚡ What client I use for Minecraft: <a href="https://offlinecheatbreaker.com">Offline CheatBreaker</a>
 
-<a href="https://github.com/Krumpezz/CrystalClient">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krumpezz&repo=CrystalClient&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<h3 align="center">Socials:</h3>
+<div align="center">
 
-<a href="https://github.com/Krumpezz/ExtinctionClient">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krumpezz&repo=ExtinctionClient&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+[![image](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/techpointch)
+[![image](https://img.shields.io/badge/Discord-4e5d94?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/mBS2hV4)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TecqPoint)
+[![image](https://img.shields.io/badge/Reddit-D14836?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/techpointch)
   
-<a href="https://github.com/Krumpezz/Trobos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krumpezz&repo=Trobos&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  
-<a href="https://github.com/Krumpezz/Acrophobia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Krumpezz&repo=Acrophobia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</div>
+
+<h3 align="center">Tools:</h3>
+
+<p align="center"> 
+  <a href="https://www.microsoft.com/en-us/windows/windows-7" target="_blank"> 
+    <img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="windows" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a> 
+  <a href="https://mcreator.net" target="_blank"> 
+    <img src="https://lutris.net/media/games/icons/minecraft-launcher_5zwVHLz.png" alt="minecraftmods" width="40" height="40"/> 
+  </a>  
+  <a href="https://discord.dev" target="_blank"> 
+    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="discorddevportal" width="40" height="40"/> 
+  </a> 
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=techpointdev&show_icons=true&theme=tokyonight" />
+</p>
