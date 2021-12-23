@@ -28,6 +28,9 @@
   <a href="https://mcreator.net" target="_blank"> 
     <img src="https://lutris.net/media/games/icons/minecraft-launcher_5zwVHLz.png" alt="minecraftmods" width="40" height="40"/> 
   </a>  
+  <a href="https://github.com" target="_blank"> 
+    <img src="https://pngimg.com/uploads/github/github_PNG40.png" alt="github" width="40" height="40"/> 
+  </a> 
   <a href="https://discord.dev" target="_blank"> 
     <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="discorddevportal" width="40" height="40"/> 
   </a> 
