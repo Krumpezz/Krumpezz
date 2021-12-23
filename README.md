@@ -22,9 +22,6 @@
 <h3 align="center">Tools:</h3>
 
 <p align="center"> 
-  <a href="https://www.microsoft.com/en-us/windows/windows-7" target="_blank"> 
-    <img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="windows" width="40" height="40"/> 
-  </a>
   <a href="https://code.visualstudio.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a> 
