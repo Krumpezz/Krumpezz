@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krumpez <img height="40" src="https://emoji.gg/assets/emoji/7089-jeb.gif"></h1>
-<h3 align="center">I have 2 years of JAVA development experience</h3>
+<h3 align="center">I have 2 years of java development experience</h3>
 
 - 🔭 I like to make YouTube videos!
 
