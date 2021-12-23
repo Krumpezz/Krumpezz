@@ -5,19 +5,17 @@
 
 - 🌱 I'm most probably playing **BedWars** most of the time
 
-- 👯 I'm a Microsoft enthusiast and you can find me on the  <a href="https://msft.chat">Microsoft Community Discord</a>
+- 👯 I'm a Hacked Client developer for minecraft</a>
 
-- 📫 How to reach me: **Tech#9787 on Discord**
+- 📫 How to reach me: **Krumpez#2150 on Discord**
 
-- ⚡ What client I use for Minecraft: <a href="https://offlinecheatbreaker.com">Offline CheatBreaker</a>
+- ⚡ My twitter: <a href="https://twitter.com/RealKrumpez">RealKrumpez</a>
 
 <h3 align="center">Socials:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/techpointch)
-[![image](https://img.shields.io/badge/Discord-4e5d94?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/mBS2hV4)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TecqPoint)
-[![image](https://img.shields.io/badge/Reddit-D14836?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/techpointch)
+[![image](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Krumpez)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RealKrumpez)
   
 </div>
 
