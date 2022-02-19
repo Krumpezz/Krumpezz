@@ -17,4 +17,4 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=krumpezz&show_icons=true&count_private=true" alt="krumpezz" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Krumpezz.Krumpezz" alt="visitors"></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Krumpezz.Krumpezz" alt="Visitors"></p>
