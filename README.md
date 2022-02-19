@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://krumpezz.github.io">Krumpez</a></h2>
 <img src="https://discord.c99.nl/widget/theme-2/802515724278693898.png"/>
-<p>I'm currently a Java/CSS/JS developer. I also create <strong><a href="https://spigotmc.org">@spigotmc</a></strong> based plugins.</p><img align="right" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" />
+<p>I'm currently a Java/CSS/JS developer. I also create <strong><a href="https://spigotmc.org">@spigotmc</a></strong> based plugins.</p><img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h2>⚡️ Working Background</h2>
 <ul>
 <li>🔭 I’m currently working on Capuccino Development, Frost Client and Pixelated Studios.</li>
