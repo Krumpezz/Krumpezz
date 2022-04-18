@@ -3,9 +3,9 @@
 <p>I'm currently a Java/CSS/JS developer. I also create <strong><a href="https://spigotmc.org">@spigotmc</a></strong> based plugins.</p><img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h2>⚡️ Working Background</h2>
 <ul>
-<li>🔭 I’m currently working on Capuccino Development, <a href="https://discord.gg/8rgHeTwbxp">Frost Client</a> and <a href="https://discord.gg/CCDjdGny2S">Pixelated Studios</a>.</li>
+<li>🔭 I’m currently working on Capuccino Development, <a href="https://discord.gg/AweurtWVbF">Gamepixel</a> and <a href="discord.gg/crackpixel">Crackpixel</a>.</li>
 <li>🧐 Learning <strong>PHP</strong>, <strong>JDA</strong>, and <strong>Data Structure</strong>.</li>
-<li>👨‍💻 Most of my projects are private, Some of them are still available on <a href="https://github.com/Krumpezz">Github</a>.</li>
+<li>👨‍💻 Most of my projects are private, Some of them are still available on my<a href="https://github.com/Krumpezz">Github</a>.</li>
 <li>🎉 Fun Fact: I spend 12 hours looking at my computer screen doing some stuff..</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
